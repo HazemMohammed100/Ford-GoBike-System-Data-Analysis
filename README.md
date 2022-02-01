@@ -46,7 +46,6 @@
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 - The ride duration is mostly between 1 and 30 minutes, but there are bike rides that go longer than that. Plotted on a logarithmic scale, the distribution of bike ride duration takes on a right-skewed shape.
 - Many people use the service as transportation to work since the count of bike rides is very high at 8 a.m. and 5 p.m. which translates to people going to work and returning back.
 - Most bike rides durations are less than an hour and it is very clear by now that they are during work hours.
